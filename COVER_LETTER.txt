@@ -1,0 +1,28 @@
+Netflix Shows & Movies — Submission Cover Letter
+
+
+Assignment: Data preparation, cleaning, exploration, visualization (Python + R)
+
+Contents of submission:
+- analyze_netflix.py         # Python analysis script (data cleaning, plots, cleaned CSV)
+- plot_r.R                  # R script reproducing the Top 10 Genres chart
+- README.md                 # Instructions to run the scripts and notes
+- Netflix_shows_movies.csv  # Cleaned dataset
+- most_watched_genres.png   # Python-generated plot
+- ratings_distribution.png  # Python-generated plot
+- top_genres_r.png          # R-generated plot
+- Netflix_analysis_notebook_clean.ipynb  # Clean notebook (references images, no outputs)
+
+How to run:
+1. Run the Python script to regenerate cleaned data and Python plots:
+   & C:/Path/To/Python/python.exe C:/Users/HP/Downloads/Netflix_shows_movies/analyze_netflix.py
+
+2. Run the R script to regenerate the R plot:
+   & 'C:/Program Files/R/R-4.5.1/bin/x64/Rscript.exe' 'C:/Users/HP/Downloads/Netflix_shows_movies/plot_r.R'
+
+Notes:
+- The clean notebook references images rather than embedding them to keep the file size small.
+
+
+Thank you,
+HP
